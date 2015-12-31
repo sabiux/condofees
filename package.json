@@ -1,0 +1,17 @@
+{
+  "name": "condofees",
+  "title": "CondoFees",
+  "version": "0.0.0",
+  "license": "GPL-3.0",
+  "description": "Permite el manejo del recibo de gastos de un condominio",
+  "homepage": "http://www.sabiux.com/condofees/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabiux/condofees.git"
+  },
+  "devDependencies": {
+    "grunt-checktextdomain": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-wp-i18n": "^0.5.3"
+  }
+}
