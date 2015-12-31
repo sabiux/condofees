@@ -1,4 +1,4 @@
-# [CondoFees](http://www.sabiux.com/condofees/) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Build Status](https://api.travis-ci.org/sabiux/condofees.svg?branch=master)](http://travis-ci.org/sabiux/condofees) [![Coverage Status](https://img.shields.io/coveralls/sabiux/condofees.svg)](https://coveralls.io/r/sabiux/condofees)
+# [CondoFees](http://www.sabiux.com/condofees/) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) 
 
 Welcome to the CondoFees repository on GitHub. Here you can browse the source, look at open issues and keep track of development. We recommend all developers to follow the [CondoFees development blog](http://develop.sabiux.com/condofees/) to stay up to date about everything happening in the project. You can also [follow @Sabiux](https://twitter.com/Sabiux) on Twitter for the latest development updates.
 
