@@ -1,0 +1,38 @@
+# Copyright (C) 2015 Sabiux
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: CondoFees 0.0.0-dev Frontend\n"
+"Report-Msgid-Bugs-To: https://github.com/sabiux/condofees/issues\n"
+"POT-Creation-Date: 2015-12-31 02:15:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#: condofees.php:63 condofees.php:71
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CondoFees"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.sabiux.com/condofees/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Permite el manejo del recibo de gastos de un condominio."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sabiux"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sabiux.com"
+msgstr ""
